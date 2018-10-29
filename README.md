@@ -1,6 +1,8 @@
 # web-store
 
-> A Vue.js project
+> 前端存储方案 —— LocalStorage、SessionStorage、IndexedDB、WebSQL、Cookies
+
+访问地址：https://haochuan9421.github.io/web-store/
 
 ## Build Setup
 
